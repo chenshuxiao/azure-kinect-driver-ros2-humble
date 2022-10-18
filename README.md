@@ -1,4 +1,8 @@
-# Azure Kinect ROS Driver
+# Azure Kinect ROS2 Driver
+
+**This is an Azure Kinect driver tested under ROS2 Humble.**
+
+*Here is the original readme*:
 
 This project is a node which publishes sensor data from the [Azure Kinect Developer Kit](https://azure.microsoft.com/en-us/services/kinect-dk/) to the [Robot Operating System (ROS)](http://www.ros.org/). Developers working with ROS can use this node to connect an Azure Kinect Developer Kit to an existing ROS installation.
 
